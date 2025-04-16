@@ -2,33 +2,45 @@
 
 #### About me
 
-* I am 31 year old programmer from Tyumen :computer:
-* My Java experience is 2 year :watch:
+* I am 33 year old programmer from Tyumen :computer:
+* My Scala and Java experience is more than 4 year :watch:
 
 -----------
-<b>Core technologies:</b>
+<b>Scala:</b>
 >
-![Java](https://img.shields.io/badge/java-%3E%3D8-orange)
+![Scala](https://img.shields.io/badge/Scala-2.13-red)
+![Cats Effect](https://img.shields.io/badge/Cats_Effect-3-red)
+![Doobie](https://img.shields.io/badge/Doobie-1-orange)
+![Tapir](https://img.shields.io/badge/Tapir-1-blue)
+![SBT](https://img.shields.io/badge/SBT-1.10-white)
+>
+<b>Java:</b>
+>
+![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
-![Maven](https://img.shields.io/badge/Gradle-7.5.1-red)
+![Gradle](https://img.shields.io/badge/Gradle-7.5.1-red)
+>
+<b>Technologies:</b>
+>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![PostgreSQL](https://img.shields.io/badge/Docker-lightblue)
+![Docker](https://img.shields.io/badge/Docker-lightblue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
 ##### Here is my projects:
-1. [Forum Spring boot](https://github.com/ikioresko/job4j_forum)
-2. [REST API for Chat with running on Docker](https://github.com/ikioresko/job4j_rest/tree/master/chat)
-3. [Job grabber(HTML Parser using JSOP)](https://github.com/ikioresko/job4j_grabber)
-4. [Car market using Servlet API & Hibernate](https://github.com/ikioresko/job4j_cars)
-5. [Job market using Servlet API & Hibernate](https://github.com/ikioresko/job4j_dreamjob)
-6. [Car accident registration app using Spring](https://github.com/ikioresko/job4j_car_accident)
-7. [TodoList using Servlet API & Hibernate](https://github.com/ikioresko/job4j_todo)
-8. [URL Shortcut service using Spring](https://github.com/ikioresko/UrlShortCut)
-9. [Cinema using Servlet API](https://github.com/ikioresko/job4j_cinema)
-10. [JMS Pooh](https://github.com/ikioresko/job4j_pooh)
-11. [Tracker using Hibernate](https://github.com/ikioresko/job4j_tracker)
+1. [Starter app (Scala)](https://github.com/ikioresko/starter)
+2. [Forum Spring boot](https://github.com/ikioresko/job4j_forum)
+3. [REST API for Chat with running on Docker](https://github.com/ikioresko/job4j_rest/tree/master/chat)
+4. [Job grabber(HTML Parser using JSOP)](https://github.com/ikioresko/job4j_grabber)
+5. [Car market using Servlet API & Hibernate](https://github.com/ikioresko/job4j_cars)
+6. [Job market using Servlet API & Hibernate](https://github.com/ikioresko/job4j_dreamjob)
+7. [Car accident registration app using Spring](https://github.com/ikioresko/job4j_car_accident)
+8. [TodoList using Servlet API & Hibernate](https://github.com/ikioresko/job4j_todo)
+9. [URL Shortcut service using Spring](https://github.com/ikioresko/UrlShortCut)
+10. [Cinema using Servlet API](https://github.com/ikioresko/job4j_cinema)
+11. [JMS Pooh](https://github.com/ikioresko/job4j_pooh)
+12. [Tracker using Hibernate](https://github.com/ikioresko/job4j_tracker)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ikioresko&hide=stars,prs,issues,contribs)
 
