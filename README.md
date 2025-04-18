@@ -42,9 +42,9 @@
 11. [JMS Pooh](https://github.com/ikioresko/job4j_pooh)
 12. [Tracker using Hibernate](https://github.com/ikioresko/job4j_tracker)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ikioresko&hide=stars,prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikioresko&show_icons=true&theme=graywhite&hide=stars,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikioresko&layout=compact)](https://github.com/ikioresko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikioresko&layout=compact&theme=graywhite)](https://github.com/ikioresko/github-readme-stats)
 <!--
 **ikioresko/ikioresko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
