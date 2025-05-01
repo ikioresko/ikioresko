@@ -13,6 +13,7 @@
 ![Doobie](https://img.shields.io/badge/Doobie-1-orange)
 ![Tapir](https://img.shields.io/badge/Tapir-1-blue)
 ![SBT](https://img.shields.io/badge/SBT-1.10-white)
+![Flyway](https://img.shields.io/badge/Flyway-11-red)
 >
 <b>Java:</b>
 >
@@ -42,7 +43,7 @@
 11. [JMS Pooh](https://github.com/ikioresko/job4j_pooh)
 12. [Tracker using Hibernate](https://github.com/ikioresko/job4j_tracker)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikioresko&show_icons=true&theme=graywhite&hide=stars,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ikioresko&show_icons=true&theme=graywhite&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikioresko&layout=compact&theme=graywhite)](https://github.com/ikioresko/github-readme-stats)
 <!--
